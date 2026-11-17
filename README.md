@@ -52,14 +52,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pushpa-1pk&show_icons=true&theme=tokyonight&hide_border=true" alt="Pushpa's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpa-1pk&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=pushpa-1pk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=pushpa-1pk&show_icons=true&theme=tokyonight&hide_border=true" alt="Pushpa's GitHub statistics" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpa-1pk&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" /> </p> <p align="center"> <img width="95%" src="https://streak-stats.demolab.com?user=pushpa-1pk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /> </p> 
 
 <br/>
 
