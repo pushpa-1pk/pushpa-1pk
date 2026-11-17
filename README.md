@@ -28,39 +28,7 @@ I enjoy transforming ideas into real-world products, developing RESTful APIs, de
 
 🧑‍💻 Tech Stack & Skills
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui,vite,nodejs,express,mongodb,mysql,postgres,redis,rabbitmq,docker,git,github,postman,cpp&perline=10" alt="Tech stack" /> </p>
-
-Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,materialui" alt="Frontend technologies" />
-</p>
-
-Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
-</p>
-
-Databases & Caching
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Database technologies" />
-</p>
-
-DevOps, Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,vite,vscode" alt="Developer tools" />
-</p>
-
-Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,javascript" alt="Programming languages" />
-</p>
-
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui,vite,nodejs,express,mongodb,mysql,postgres,redis,rabbitmq,docker,git,github,postman,cpp&perline=10" alt="Tech stack" /> </p>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=pushpa-1pk&show_icons=true&theme=tokyonight&hide_border=true" alt="Pushpa's GitHub statistics" />
