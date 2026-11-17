@@ -58,27 +58,6 @@ Programming Languages
   <img src="https://skillicons.dev/icons?i=cpp,javascript" alt="Programming languages" />
 </p>
 
-Additional Technologies
-
-RESTful API Development
-
-MongoDB Atlas & Mongoose
-
-Socket.IO & WebSockets
-
-RabbitMQ
-
-Redis GEO & Pub/Sub
-
-JWT Authentication & OTP Verification
-
-Firebase Cloud Messaging
-
-Cloudinary
-
-Docker Compose
-
-Microservices Architecture
 
 
 <p align="center">
