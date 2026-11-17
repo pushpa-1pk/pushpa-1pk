@@ -28,6 +28,8 @@ I enjoy transforming ideas into real-world products, developing RESTful APIs, de
 
 🧑‍💻 Tech Stack & Skills
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,materialui,vite,nodejs,express,mongodb,mysql,postgres,redis,rabbitmq,docker,git,github,postman,cpp&perline=10" alt="Tech stack" /> </p>
+
 Frontend Development
 
 <p align="left">
