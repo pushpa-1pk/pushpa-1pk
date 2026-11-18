@@ -4,7 +4,7 @@
 
 <p align="center">   <b>Full Stack MERN Developer</b> · React.js · Node.js </p>
 
-<p align="center">   <a href="https://pushpa-kaithal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FDE23A?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>   <a href="https://www.linkedin.com/in/pushpa-kaithal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>   <a href="mailto:pushpakaithal0@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
+<p align="center">   <a href="https://pushpa-kaithal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FDE23A?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>   <a href="https://www.linkedin.com/in/pushpa-kaithal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>   <a href="mailto:pushpakaithal0@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
 
 <h2>🚀 About Me</h2>
 
