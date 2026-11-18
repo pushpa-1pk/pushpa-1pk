@@ -6,7 +6,7 @@
 
 <p align="center">   <a href="https://pushpa-kaithal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FDE23A?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>   <a href="https://www.linkedin.com/in/pushpa-kaithal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>   <a href="mailto:pushpakaithal0@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
 
-🚀 About Me
+<h2>🚀 About Me</h2>
 
 CS Engineering graduate (2026) who enjoys building web applications and scalable backend systems.
 
@@ -18,11 +18,11 @@ CS Engineering graduate (2026) who enjoys building web applications and scalable
 
 📍 India · Open to relocation
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 <p align="center">   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,redis,rabbitmq,docker,git,github,postman,cpp&perline=9" alt="Tech Stack" /> </p>
 
-📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pushpa-1pk&show_icons=true&theme=transparent&title_color=F5C400&icon_color=F5C400&text_color=8B949E&hide_border=true" alt="GitHub Statistics" />   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpa-1pk&layout=compact&theme=transparent&title_color=F5C400&text_color=8B949E&hide_border=true" alt="Top Languages" /> </p>
 
