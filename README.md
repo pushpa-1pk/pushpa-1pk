@@ -1,37 +1,13 @@
-👋 Hi, I'm Pushpa Kaithal
-
-Full Stack MERN Developer | React.js | Node.js
-
-<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Real-World+Applications;Always+Learning+New+Technologies" alt="Typing SVG" /> </p>
-
-<p align="center">   <a href="https://pushpa-kaithal-portfolio.vercel.app/">Portfolio</a> •   <a href="https://www.linkedin.com/in/pushpa-kaithal/">LinkedIn</a> •   <a href="mailto:pushpakaithal0@gmail.com">Email</a> </p>
-
+<p align="center"> <img src="assets/banner.png" alt="Pushpa Kaithal – Web Developer" width="100%" /> </p> <h1 align="center">Hi, I'm Pushpa Kaithal 👋</h1> <p align="center"> <b>Full Stack MERN Developer</b> &nbsp;·&nbsp; React.js &nbsp;·&nbsp; Node.js </p> <p align="center"> <a href="https://pushpa-kaithal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FDE23A?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/pushpa-kaithal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:pushpakaithal0@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
 🚀 About Me
 
-I'm a Computer Science Engineering graduate (2026) passionate about building modern web applications and scalable backend systems.
+CS Engineering graduate (2026) who enjoys building web applications and scalable backend systems.
 
-💻 Focused on MERN Stack Development
-
-🔭 Building JustTap – A Service Booking Platform
-
-🌱 Exploring System Design & Backend Engineering
-
-🎯 Open to Full Stack, React & Backend Developer opportunities
-
-📍 India | Open to Relocation
-
+🔭 Building JustTap, a microservices-based service booking platform
+🌱 Strengthening backend engineering, SQL and system design
+🎯 Open to Full Stack, React and Backend Developer roles
+📍 India · Open to relocation
 🛠️ Tech Stack
-
-<p align="center">   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,redis,rabbitmq,docker,git,github,postman,cpp&perline=9" /> </p>
-
-📊 GitHub Statistics
-
-<p align="center">   <img height="160" src="https://github-readme-stats.vercel.app/api?username=pushpa-1pk&show_icons=true&theme=tokyonight&hide_border=true" />   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpa-1pk&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
-<p align="center">   <img width="90%" src="https://streak-stats.demolab.com?user=pushpa-1pk&theme=tokyonight&hide_border=true" /> </p>
-
-🤝 Let's Connect
-
-<p align="center">   <a href="https://github.com/pushpa-1pk">GitHub</a> •   <a href="https://www.linkedin.com/in/pushpa-kaithal/">LinkedIn</a> •   <a href="https://pushpa-kaithal-portfolio.vercel.app/">Portfolio</a> •   <a href="mailto:pushpakaithal0@gmail.com">Email</a> </p>
-
-<p align="center">   <i>Building. Learning. Creating. 🚀</i> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,redis,rabbitmq,docker,git,github,postman,cpp&perline=9" alt="Tech stack" /> </p>
+📊 GitHub Stats
+<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=pushpa-1pk&show_icons=true&theme=transparent&title_color=F5C400&icon_color=F5C400&text_color=8B949E&hide_border=true" alt="GitHub stats" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpa-1pk&layout=compact&theme=transparent&title_color=F5C400&text_color=8B949E&hide_border=true" alt="Top languages" /> </p> <p align="center"><i>Building. Learning. Creating. 🚀</i></p>
